@@ -1,1 +1,2 @@
-# HELLO WORLD
+# 🚀 Getting started with Strapi
+
